@@ -117,7 +117,7 @@ Netlify er en en af de mest brugte hosting hjemmesider til front-end developers 
 
 Opgaven bestod i at ligge applikationen automatisk op på en online tjeneste, som i det her tilfælde endte op med at være Netlify. Automatiseringen indbefattede at siden skulle opdateres hvis der blev udført et commit eller lavet et pull-request.
 
-**Link til Netlify side:** https://xxxxx
+**Link til Netlify side:** https://634340f0ac2fc76fd208e220--spiffy-queijadas-113f43.netlify.app/
 
 <br/>
 
